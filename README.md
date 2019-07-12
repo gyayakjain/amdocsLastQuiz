@@ -1,20 +1,20 @@
-d
-c
-d
-c
-a
-a
-a
-d
-d
-d
-a
-c
-a
-a
-d
-d
-b
-a b d
-a
-a c
+1.d
+2.c
+3.d
+4.c
+5.a
+6.a
+7.a
+8.d
+9.d
+10.d
+11.a
+12.c
+13.a
+14.a
+15.d
+16.d
+17.b
+18.a b d
+19.a
+20.a c
